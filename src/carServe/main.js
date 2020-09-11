@@ -1,10 +1,10 @@
-import Vue from "vue";
+﻿import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import http from "./service/http";
 // 引入静态资源
-// 样式初始化、字体图标
+// 样式初始化、字体图标1111
 import "@/carServe/assets/css/reset.css";
 // 引入雪碧图样式文件
 import "@/carServe/assets/css/sprite.scss";
