@@ -1,8 +1,8 @@
-// 运行配置 -模块开发路径管理
+﻿// 运行配置 -模块开发路径管理
 const runConfig = require("./vue.run.config");
 // 引入node模块
 const path = require("path");
-// 引入雪碧图插件
+// 引入雪碧图插件11111111
 const SpritesmithPlugin = require("webpack-spritesmith");
 const webpack = require("webpack");
 // 雪碧图自定义模板
